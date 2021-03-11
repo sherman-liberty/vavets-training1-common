@@ -20,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "50.0",
     "packageAliases": {
-        "vavets-training1-common": ""
+        "vavets-training1-common": "0Ho3t00000000GqCAI",
+        "vavets-training1-common@1.0.0-0": "04t3t000002XyP6AAK"
     }
 }
