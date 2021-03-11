@@ -1,0 +1,25 @@
+{
+    "packageDirectories": [
+        {
+            "path": "sfdx-source/unpackaged",
+            "default": false
+        },
+        {
+            "path": "sfdx-source/untracked",
+            "default": false
+        },
+        {
+            "path": "sfdx-source/vavets-training1-common",
+            "default": true,
+            "package": "vavets-training1-common",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "vavets-training1-common": ""
+    }
+}

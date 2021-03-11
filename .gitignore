@@ -1,0 +1,26 @@
+
+# General Project related
+.DS_Store
+target/
+temp/
+/deploy/*
+/debug/
+**/dep-dir.txt
+*.prefs
+build.properties
+.execanon
+
+# VS Code IDE Related
+.vscode/
+.history/
+
+# SFDX Related
+.sfdx/
+sfdx-source/untracked/*
+!sfdx-source/untracked/README.md
+sfdx-source/vavets-training1-common/main/default
+
+# NPM Related
+package.json
+/node_modules
+package-lock.json
